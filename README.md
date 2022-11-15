@@ -4,6 +4,6 @@
 
 ### Лямбда-выражения и функциональные интерфейсы
 
-[Калькулятор](https://github.com/ilk07/Calculator/src/)
+[Калькулятор](https://github.com/ilk07/Calculator/tree/main/src)
 
 
